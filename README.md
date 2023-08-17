@@ -12,7 +12,7 @@ RCNN, Fast-RCNN e Faster-RCNN, Redes Neurais Generativas (GANs); e Redes
 Neurais Profundas de Aprendizado por Reforço: Reinforce, Q-Learning, DQN, DDQN e
 Actor-Critic.
 
-## Classificac¸ao de Imagens de Esportes usando Redes Neurais Convolucionais
+## Classificação de Imagens de Esportes usando Redes Neurais Convolucionais
 
 A classificação de imagens é uma tarefa crucial no âmbito da visão computacional, com aplicações em diversas áreas, como o reconhecimento de objetos e o diagnóstico médico. Neste estudo, nos dedicamos ao desafio de classificar imagens de diferentes esportes usando Redes Neurais Convolucionais (CNNs) com a biblioteca PyTorch.
 
